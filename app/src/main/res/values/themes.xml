@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MySchool.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenAnimatedIcon">@drawable/app_logo</item>
+        <item name="postSplashScreenTheme">@style/Theme.MySchool</item>
+    </style>
+
+    <style name="Theme.MySchool" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

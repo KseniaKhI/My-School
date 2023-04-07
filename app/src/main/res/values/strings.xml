@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">My School</string>
+
+    <!--Nav items-->
+    <string name="news_nav_item">News</string>
+    <string name="schedule_nav_item">Schedule</string>
+    <string name="progress_nav_item">Progress</string>
+    <string name="teachers_nav_item">Teachers</string>
+    <string name="tests_nav_item">Tests</string>
+    <string name="new_test_nav_item">New test</string>
+    <string name="teacher_details_nav_item">Teacher details</string>
+    <string name="journal_nav_item">Journal</string>
+    <string name="test_passing_nav_item">Test passing</string>
+
+    <!--Labels-->
+    <string name="test_name_label">Name</string>
+    <string name="test_description_label">Description</string>
+    <string name="test_total_questions_label">Total questions</string>
+    <string name="test_class_number_label">Class number</string>
+    <string name="test_parallel_label">Parallel</string>
+    <string name="question_label">Question text</string>
+    <string name="correct_answer_label">Correct answer text</string>
+    <string name="answer_label">Answer text</string>
+    <string name="personal_code_label">Enter your personal code</string>
+    <string name="full_username_table_header">Full name</string>
+    <string name="user_score_table_header">Score</string>
+    <string name="passed_people_label">Passed</string>
+
+    <!--Buttons-->
+    <string name="next_button">Next</string>
+    <string name="save_button">Save</string>
+    <string name="add_test_button">Add test</string>
+    <string name="sign_in_button">Sign In</string>
+    <string name="call_button">Call</string>
+    <string name="send_message_button">Send message</string>
+
+    <!--Other-->
+    <string-array name="parallels">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+    </string-array>
+
+    <!--Errors-->
+    <string name="personal_code_error">User with this code was not found</string>
+</resources>

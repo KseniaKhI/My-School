@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Моя школа</string>
+
+    <!--Nav items-->
+    <string name="news_nav_item">Новости</string>
+    <string name="schedule_nav_item">Расписание</string>
+    <string name="progress_nav_item">Успеваемость</string>
+    <string name="teachers_nav_item">Учителя</string>
+    <string name="tests_nav_item">Тесты</string>
+    <string name="new_test_nav_item">Новый тест</string>
+    <string name="teacher_details_nav_item">Сведения об учителе</string>
+    <string name="journal_nav_item">Журнал</string>
+    <string name="test_passing_nav_item">Прохождение теста</string>
+
+    <!--Labels-->
+    <string name="test_name_label">Название теста</string>
+    <string name="test_description_label">Описание</string>
+    <string name="test_total_questions_label">Количество вопросов</string>
+    <string name="test_class_number_label">Номер класса</string>
+    <string name="test_parallel_label">Параллель</string>
+    <string name="question_label">Текст вопроса</string>
+    <string name="correct_answer_label">Текст правильного ответа</string>
+    <string name="answer_label">Текст ответа</string>
+    <string name="personal_code_label">Введите личный код</string>
+    <string name="full_username_table_header">ФИ</string>
+    <string name="user_score_table_header">Балл</string>
+    <string name="passed_people_label">Сдали</string>
+
+    <!--Buttons-->
+    <string name="next_button">Далее</string>
+    <string name="save_button">Сохранить</string>
+    <string name="add_test_button">Добавить тест</string>
+    <string name="sign_in_button">Войти</string>
+    <string name="call_button">Позвонить</string>
+    <string name="send_message_button">Сообщение</string>
+
+    <!--Other-->
+    <string-array name="parallels">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+    </string-array>
+
+    <!--Errors-->
+    <string name="personal_code_error">Пользователь с таким кодом не найден</string>
+</resources>
